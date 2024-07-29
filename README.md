@@ -75,6 +75,3 @@ The script will automatically send notifications for the following events:
 
 You can customize the interface names by modifying the `get_custom_name` function in the `router_notify.sh` script.
 
-## License
-
-This project is licensed under the MIT License.
